@@ -21,8 +21,9 @@ public class Test {
 
 
     }
+    //修改代码
 
-    // 这种写法是 寻找比target 大且最接近target 的数 (如果target不存在)
+    // 这种写法是 寻找比target 大且最接近target 的数 (如果target不存在).
     //并且在重复的时候 返回的是最前面的那个index
     private int bs(int[] arr, int s, int e, int tar){
         if(s>e) return s;
