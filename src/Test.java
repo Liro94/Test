@@ -34,7 +34,7 @@ public class Test {
             return bs(arr,mid+1,e,tar);
         }
     }
-
+//......
 
     // 这种写法是 寻找比target 小且最接近target 的数 (如果target不存在)
     //并且在重复的时候返回的是最后面的index
